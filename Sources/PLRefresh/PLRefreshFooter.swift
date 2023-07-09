@@ -1,4 +1,3 @@
-#if canImport(UIKit)
 import UIKit
 
 class PLRefreshFooter: PLRefreshComponent {
@@ -37,5 +36,3 @@ class PLRefreshFooter: PLRefreshComponent {
         }
     }
 }
-
-#endif

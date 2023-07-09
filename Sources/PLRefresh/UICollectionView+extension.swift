@@ -1,4 +1,4 @@
-#if canImport(UIKit)
 import UIKit
 
-#endif
+extension UICollectionView {
+}

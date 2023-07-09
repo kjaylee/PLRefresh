@@ -1,4 +1,3 @@
-#if canImport(UIKit)
 import UIKit
 
 enum PLRefreshState: Int {
@@ -117,5 +116,3 @@ class PLRefreshComponent: UIView {
         }
     }
 }
-
-#endif

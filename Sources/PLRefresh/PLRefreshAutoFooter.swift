@@ -1,4 +1,3 @@
-#if canImport(UIKit)
 import UIKit
 
 class PLRefreshAutoFooter: PLRefreshFooter {
@@ -156,4 +155,3 @@ class PLRefreshAutoFooter: PLRefreshFooter {
         }
     }
 }
-#endif

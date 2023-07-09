@@ -1,4 +1,3 @@
-#if canImport(UIKit)
 import UIKit
 
 class PLRefreshLeader: PLRefreshComponent {
@@ -32,5 +31,3 @@ class PLRefreshLeader: PLRefreshComponent {
     
     // Override other necessary methods...
 }
-
-#endif

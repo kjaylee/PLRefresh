@@ -1,4 +1,3 @@
-#if canImport(UIKit)
 import UIKit
 
 class PLRefreshHeader: PLRefreshComponent {
@@ -103,5 +102,3 @@ class PLRefreshHeader: PLRefreshComponent {
         }
     }
 }
-
-#endif

@@ -1,4 +1,3 @@
-#if canImport(UIKit)
 import UIKit
 
 class PLRefreshTrailer: PLRefreshComponent {
@@ -149,5 +148,3 @@ class PLRefreshTrailer: PLRefreshComponent {
         return (self.scrollView?.contentSize.width ?? 0) - w
     }
 }
-
-#endif
